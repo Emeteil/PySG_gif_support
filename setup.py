@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = "PySG_gif_support",
-    version = "0.16",
+    version = "0.17",
     description = "Очень простая библиотека для поддержки GIF в PySimpleGUI",
     author = "Emeteil",
     author_email = "vorobievdima43@gmail.com",
