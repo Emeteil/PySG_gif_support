@@ -23,7 +23,7 @@ layout = [
 # ОБЯЗАТЕЛЬНО УКАЗАТЬ finalize = True!!!
 window = sg.Window("Test Animation", layout, finalize = True)
 
-thread, stop_event = start_gif_animation(window, "IMAGE", "example_25fps.gif")
+thread, stop_event = start_gif_animation(window, "IMAGE", "example.gif")
 
 while True:
     event, values = window.read()
