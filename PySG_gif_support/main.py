@@ -1,4 +1,4 @@
-from utils.analyzer_gif import _get_gif_frame_rate, _gif_to_base64_frames
+from .utils.analyzer_gif import _get_gif_frame_rate, _gif_to_base64_frames
 import PySimpleGUI as sg
 from typing import Union
 import time, os, io
