@@ -1,0 +1,2 @@
+include *.gif
+include utils/*.py
