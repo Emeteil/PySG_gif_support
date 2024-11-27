@@ -4,11 +4,11 @@
 
 # Установка
 ```sh
-python -m pip install https://github.com/Emeteil/PySG_gif_support
+python -m pip install git+https://github.com/Emeteil/PySG_gif_support.git
 ```
 или
 ```sh
-pip install https://github.com/Emeteil/PySG_gif_support
+pip install git+https://github.com/Emeteil/PySG_gif_support.git
 ```
 
 # Использование

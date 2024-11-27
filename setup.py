@@ -10,8 +10,6 @@ setup(
     install_requires = [
         'Pillow',
         'typing',
-        'base64',
-        'io',
         'PySimpleGUI'
     ],
     python_requires = '>=3.6',
